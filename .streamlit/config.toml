@@ -1,2 +1,2 @@
 [server]
-enableCors = true
+enableCors = false
